@@ -18,3 +18,8 @@ set incsearch
 syntax on
 set nowrap
 ```
+## utf-8 settings
+```
+set encoding=utf-8
+set fileencoding=utf-8
+```
